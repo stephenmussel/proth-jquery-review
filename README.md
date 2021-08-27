@@ -7,4 +7,4 @@ website that allows users to input weather data for a city
 - [x] add a button that calls a function
 - [x] create a function that appends our data to the html table
 - [x] logic to highlight specific fields on that table
-- [x] style the able
+- [x] style the table
